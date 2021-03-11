@@ -1,0 +1,11 @@
+.card-list2 {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.card-item2 {
+    width: 100%;
+    background-color: #f5f5f5;
+    margin-bottom: 10px;
+}

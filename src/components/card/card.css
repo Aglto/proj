@@ -1,0 +1,37 @@
+.card-wrapper {
+    position: relative;
+    margin-right: 150px;
+    margin-bottom: 30px;
+}
+
+.card-title {
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+.card-color {
+    position: absolute;
+    top: 60px;
+    left: 140px;
+}
+
+.card-footer-wrapper {
+    position: absolute;
+    bottom: 15px;
+}
+
+.cart-button {
+    margin-left: 130px;
+    color: red;
+}
+
+.card-price {
+    margin-left: 10px;
+    color: red;
+}
+
+.card-image {
+    width: 300px;
+    height: 300px;
+}
